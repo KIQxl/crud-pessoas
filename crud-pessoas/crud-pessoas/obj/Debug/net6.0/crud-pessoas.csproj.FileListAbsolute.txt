@@ -1,0 +1,108 @@
+C:\repositorio git\crud-pessoas\crud-pessoas\crud-pessoas\bin\Debug\net6.0\appsettings.Development.json
+C:\repositorio git\crud-pessoas\crud-pessoas\crud-pessoas\bin\Debug\net6.0\appsettings.json
+C:\repositorio git\crud-pessoas\crud-pessoas\crud-pessoas\bin\Debug\net6.0\crud-pessoas.exe
+C:\repositorio git\crud-pessoas\crud-pessoas\crud-pessoas\bin\Debug\net6.0\crud-pessoas.deps.json
+C:\repositorio git\crud-pessoas\crud-pessoas\crud-pessoas\bin\Debug\net6.0\crud-pessoas.runtimeconfig.json
+C:\repositorio git\crud-pessoas\crud-pessoas\crud-pessoas\bin\Debug\net6.0\crud-pessoas.dll
+C:\repositorio git\crud-pessoas\crud-pessoas\crud-pessoas\bin\Debug\net6.0\crud-pessoas.pdb
+C:\repositorio git\crud-pessoas\crud-pessoas\crud-pessoas\bin\Debug\net6.0\Humanizer.dll
+C:\repositorio git\crud-pessoas\crud-pessoas\crud-pessoas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\repositorio git\crud-pessoas\crud-pessoas\crud-pessoas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\repositorio git\crud-pessoas\crud-pessoas\crud-pessoas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\repositorio git\crud-pessoas\crud-pessoas\crud-pessoas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\repositorio git\crud-pessoas\crud-pessoas\crud-pessoas\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\repositorio git\crud-pessoas\crud-pessoas\crud-pessoas\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\repositorio git\crud-pessoas\crud-pessoas\crud-pessoas\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\repositorio git\crud-pessoas\crud-pessoas\crud-pessoas\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\repositorio git\crud-pessoas\crud-pessoas\crud-pessoas\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\repositorio git\crud-pessoas\crud-pessoas\crud-pessoas\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\repositorio git\crud-pessoas\crud-pessoas\crud-pessoas\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\repositorio git\crud-pessoas\crud-pessoas\crud-pessoas\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\repositorio git\crud-pessoas\crud-pessoas\crud-pessoas\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\repositorio git\crud-pessoas\crud-pessoas\crud-pessoas\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\repositorio git\crud-pessoas\crud-pessoas\crud-pessoas\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\repositorio git\crud-pessoas\crud-pessoas\crud-pessoas\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\repositorio git\crud-pessoas\crud-pessoas\crud-pessoas\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\repositorio git\crud-pessoas\crud-pessoas\crud-pessoas\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\repositorio git\crud-pessoas\crud-pessoas\crud-pessoas\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\repositorio git\crud-pessoas\crud-pessoas\crud-pessoas\bin\Debug\net6.0\System.CodeDom.dll
+C:\repositorio git\crud-pessoas\crud-pessoas\crud-pessoas\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\repositorio git\crud-pessoas\crud-pessoas\crud-pessoas\bin\Debug\net6.0\System.Text.Json.dll
+C:\repositorio git\crud-pessoas\crud-pessoas\crud-pessoas\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\repositorio git\crud-pessoas\crud-pessoas\crud-pessoas\obj\Debug\net6.0\crud-pessoas.csproj.AssemblyReference.cache
+C:\repositorio git\crud-pessoas\crud-pessoas\crud-pessoas\obj\Debug\net6.0\crud-pessoas.GeneratedMSBuildEditorConfig.editorconfig
+C:\repositorio git\crud-pessoas\crud-pessoas\crud-pessoas\obj\Debug\net6.0\crud-pessoas.AssemblyInfoInputs.cache
+C:\repositorio git\crud-pessoas\crud-pessoas\crud-pessoas\obj\Debug\net6.0\crud-pessoas.AssemblyInfo.cs
+C:\repositorio git\crud-pessoas\crud-pessoas\crud-pessoas\obj\Debug\net6.0\crud-pessoas.csproj.CoreCompileInputs.cache
+C:\repositorio git\crud-pessoas\crud-pessoas\crud-pessoas\obj\Debug\net6.0\crud-pessoas.MvcApplicationPartsAssemblyInfo.cs
+C:\repositorio git\crud-pessoas\crud-pessoas\crud-pessoas\obj\Debug\net6.0\crud-pessoas.MvcApplicationPartsAssemblyInfo.cache
+C:\repositorio git\crud-pessoas\crud-pessoas\crud-pessoas\obj\Debug\net6.0\staticwebassets\msbuild.crud-pessoas.Microsoft.AspNetCore.StaticWebAssets.props
+C:\repositorio git\crud-pessoas\crud-pessoas\crud-pessoas\obj\Debug\net6.0\staticwebassets\msbuild.build.crud-pessoas.props
+C:\repositorio git\crud-pessoas\crud-pessoas\crud-pessoas\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.crud-pessoas.props
+C:\repositorio git\crud-pessoas\crud-pessoas\crud-pessoas\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.crud-pessoas.props
+C:\repositorio git\crud-pessoas\crud-pessoas\crud-pessoas\obj\Debug\net6.0\staticwebassets.pack.json
+C:\repositorio git\crud-pessoas\crud-pessoas\crud-pessoas\obj\Debug\net6.0\staticwebassets.build.json
+C:\repositorio git\crud-pessoas\crud-pessoas\crud-pessoas\obj\Debug\net6.0\staticwebassets.development.json
+C:\repositorio git\crud-pessoas\crud-pessoas\crud-pessoas\obj\Debug\net6.0\scopedcss\bundle\crud-pessoas.styles.css
+C:\repositorio git\crud-pessoas\crud-pessoas\crud-pessoas\obj\Debug\net6.0\crud-pessoas.csproj.CopyComplete
+C:\repositorio git\crud-pessoas\crud-pessoas\crud-pessoas\obj\Debug\net6.0\crud-pessoas.dll
+C:\repositorio git\crud-pessoas\crud-pessoas\crud-pessoas\obj\Debug\net6.0\refint\crud-pessoas.dll
+C:\repositorio git\crud-pessoas\crud-pessoas\crud-pessoas\obj\Debug\net6.0\crud-pessoas.pdb
+C:\repositorio git\crud-pessoas\crud-pessoas\crud-pessoas\obj\Debug\net6.0\crud-pessoas.genruntimeconfig.cache
+C:\repositorio git\crud-pessoas\crud-pessoas\crud-pessoas\obj\Debug\net6.0\ref\crud-pessoas.dll
+C:\Users\kaiqu\Desktop\crud-pessoas\crud-pessoas\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\kaiqu\Desktop\crud-pessoas\crud-pessoas\bin\Debug\net6.0\appsettings.json
+C:\Users\kaiqu\Desktop\crud-pessoas\crud-pessoas\bin\Debug\net6.0\crud-pessoas.exe
+C:\Users\kaiqu\Desktop\crud-pessoas\crud-pessoas\bin\Debug\net6.0\crud-pessoas.deps.json
+C:\Users\kaiqu\Desktop\crud-pessoas\crud-pessoas\bin\Debug\net6.0\crud-pessoas.runtimeconfig.json
+C:\Users\kaiqu\Desktop\crud-pessoas\crud-pessoas\bin\Debug\net6.0\crud-pessoas.dll
+C:\Users\kaiqu\Desktop\crud-pessoas\crud-pessoas\bin\Debug\net6.0\crud-pessoas.pdb
+C:\Users\kaiqu\Desktop\crud-pessoas\crud-pessoas\bin\Debug\net6.0\Humanizer.dll
+C:\Users\kaiqu\Desktop\crud-pessoas\crud-pessoas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kaiqu\Desktop\crud-pessoas\crud-pessoas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kaiqu\Desktop\crud-pessoas\crud-pessoas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\kaiqu\Desktop\crud-pessoas\crud-pessoas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kaiqu\Desktop\crud-pessoas\crud-pessoas\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\kaiqu\Desktop\crud-pessoas\crud-pessoas\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kaiqu\Desktop\crud-pessoas\crud-pessoas\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kaiqu\Desktop\crud-pessoas\crud-pessoas\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kaiqu\Desktop\crud-pessoas\crud-pessoas\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kaiqu\Desktop\crud-pessoas\crud-pessoas\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\kaiqu\Desktop\crud-pessoas\crud-pessoas\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\kaiqu\Desktop\crud-pessoas\crud-pessoas\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kaiqu\Desktop\crud-pessoas\crud-pessoas\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\kaiqu\Desktop\crud-pessoas\crud-pessoas\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\kaiqu\Desktop\crud-pessoas\crud-pessoas\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\kaiqu\Desktop\crud-pessoas\crud-pessoas\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\kaiqu\Desktop\crud-pessoas\crud-pessoas\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kaiqu\Desktop\crud-pessoas\crud-pessoas\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kaiqu\Desktop\crud-pessoas\crud-pessoas\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kaiqu\Desktop\crud-pessoas\crud-pessoas\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\kaiqu\Desktop\crud-pessoas\crud-pessoas\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\kaiqu\Desktop\crud-pessoas\crud-pessoas\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\kaiqu\Desktop\crud-pessoas\crud-pessoas\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\kaiqu\Desktop\crud-pessoas\crud-pessoas\obj\Debug\net6.0\crud-pessoas.csproj.AssemblyReference.cache
+C:\Users\kaiqu\Desktop\crud-pessoas\crud-pessoas\obj\Debug\net6.0\crud-pessoas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiqu\Desktop\crud-pessoas\crud-pessoas\obj\Debug\net6.0\crud-pessoas.AssemblyInfoInputs.cache
+C:\Users\kaiqu\Desktop\crud-pessoas\crud-pessoas\obj\Debug\net6.0\crud-pessoas.AssemblyInfo.cs
+C:\Users\kaiqu\Desktop\crud-pessoas\crud-pessoas\obj\Debug\net6.0\crud-pessoas.csproj.CoreCompileInputs.cache
+C:\Users\kaiqu\Desktop\crud-pessoas\crud-pessoas\obj\Debug\net6.0\crud-pessoas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kaiqu\Desktop\crud-pessoas\crud-pessoas\obj\Debug\net6.0\crud-pessoas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kaiqu\Desktop\crud-pessoas\crud-pessoas\obj\Debug\net6.0\staticwebassets\msbuild.crud-pessoas.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kaiqu\Desktop\crud-pessoas\crud-pessoas\obj\Debug\net6.0\staticwebassets\msbuild.build.crud-pessoas.props
+C:\Users\kaiqu\Desktop\crud-pessoas\crud-pessoas\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.crud-pessoas.props
+C:\Users\kaiqu\Desktop\crud-pessoas\crud-pessoas\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.crud-pessoas.props
+C:\Users\kaiqu\Desktop\crud-pessoas\crud-pessoas\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\kaiqu\Desktop\crud-pessoas\crud-pessoas\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\kaiqu\Desktop\crud-pessoas\crud-pessoas\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\kaiqu\Desktop\crud-pessoas\crud-pessoas\obj\Debug\net6.0\scopedcss\bundle\crud-pessoas.styles.css
+C:\Users\kaiqu\Desktop\crud-pessoas\crud-pessoas\obj\Debug\net6.0\crud-pessoas.csproj.CopyComplete
+C:\Users\kaiqu\Desktop\crud-pessoas\crud-pessoas\obj\Debug\net6.0\crud-pessoas.dll
+C:\Users\kaiqu\Desktop\crud-pessoas\crud-pessoas\obj\Debug\net6.0\refint\crud-pessoas.dll
+C:\Users\kaiqu\Desktop\crud-pessoas\crud-pessoas\obj\Debug\net6.0\crud-pessoas.pdb
+C:\Users\kaiqu\Desktop\crud-pessoas\crud-pessoas\obj\Debug\net6.0\crud-pessoas.genruntimeconfig.cache
+C:\Users\kaiqu\Desktop\crud-pessoas\crud-pessoas\obj\Debug\net6.0\ref\crud-pessoas.dll
+C:\Users\kaiqu\Desktop\crud-pessoas\crud-pessoas\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\kaiqu\Desktop\crud-pessoas\crud-pessoas\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\repositorio git\crud-pessoas\crud-pessoas\crud-pessoas\bin\Debug\net6.0\MySqlConnector.dll
+C:\repositorio git\crud-pessoas\crud-pessoas\crud-pessoas\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
